@@ -1,0 +1,22 @@
+{
+  "name": "ray-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ray-ui/components": "^1.0.0",
+    "@ray-ui/utils": "^1.0.0",
+    "@types/node": "^22.1.0",
+    "@vitejs/plugin-vue": "^5.1.2",
+    "@vitejs/plugin-vue-jsx": "^4.0.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.5",
+    "vue": "^3.4.36"
+  }
+}
